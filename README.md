@@ -25,4 +25,4 @@ Convolutional neural networks (CNNs) have been successfully used for brain tumor
 
 
 ## Contact
-For information related with the paper, please, feel free to contact me via e-mail: id5692@alunos.uminho.pt
+For information related with the paper, please feel free to contact me via e-mail: id5692@alunos.uminho.pt
