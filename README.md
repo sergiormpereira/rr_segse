@@ -10,7 +10,7 @@ More details can be found in our paper.
 
 ## Contents
 
-```brats2017_subjects_sets.py``` we divided BRATS 2017 Training set into the following subsets: Training (60%), Validation (20%), and Test (20%). This script contains the subject's ID of each subset (it can be used for BRATS 2018, also, since the provided Training set is equal).
+```brats2017_subjects_sets.py``` we divided BRATS 2017 Training set into the following subsets: Training (60%), Validation (20%), and Test (20%). This script contains the subject's ID of each subset (it can also be used for BRATS 2018, since the provided Training set is equal).
 
 This can be used to compare directly with us, using the Test set (results in the paper, Table 1).
 
