@@ -4,7 +4,7 @@
 
 This repository contains the subject's ID used for Training, Validation, and Test.
 
-More details can be found in our paper [[preprint](https://arxiv.org/pdf/1806.02318.pdf)].
+More details can be found in our paper [[ArXiv preprint](https://arxiv.org/pdf/1806.02318.pdf)].
 
 *We are preparing an extended journal paper. Code will be made available upon submission. Stay tuned!*
 
