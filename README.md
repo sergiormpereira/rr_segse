@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the subject's ID used for Training, Validation, and Test.
+This repository contains the subject's ID used for Training, Validation, and Test in BRATS 2017.
 
 More details can be found in our paper [[ArXiv preprint](https://arxiv.org/pdf/1806.02318.pdf)].
 
@@ -13,6 +13,8 @@ More details can be found in our paper [[ArXiv preprint](https://arxiv.org/pdf/1
 ```brats2017_subjects_sets.py``` we divided BRATS 2017 Training set into the following subsets: Training (60%), Validation (20%), and Test (20%). This script contains the subject's ID of each subset (it can also be used for BRATS 2018, since the provided Training set is equal).
 
 This can be used to compare directly with us, using the Test set (results in the paper, Table 1).
+
+```whole_tumor_binary_segmentation``` this directory contains the binary whole tumor segmentations from the WT-FCN. They are used in our hierarchical segmentation approach. 
 
 
 ## Citation
