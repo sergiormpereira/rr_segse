@@ -2,13 +2,14 @@
 
 ## Description
 
-This repository contains the subject's ID used for Training, Validation, and Test in BRATS 2017.
+This repository contains the implementation of recombination and recalibration (SegSE) blocks. Also, it contains the subject's ID used for Training, Validation, and Test in BRATS 2017.
 
-More details can be found in our paper [[ArXiv preprint](https://arxiv.org/pdf/1806.02318.pdf)].
+More details can be found in our paper [[MICCAI paper](https://link.springer.com/chapter/10.1007/978-3-030-00931-1_81) | [ArXiv preprint](https://arxiv.org/pdf/1806.02318.pdf)].
 
-*We are preparing an extended journal paper. Code will be made available upon submission. Stay tuned!*
 
 ## Contents
+
+```recombination_recalibration.py``` this module contains the implementation of the proposed blocks: recombination, recalibration (SegSE), and recombination and recalibration.
 
 ```brats2017_subjects_sets.py``` we divided BRATS 2017 Training set into the following subsets: Training (60%), Validation (20%), and Test (20%). This script contains the subject's ID of each subset (it can also be used for BRATS 2018, since the provided Training set is equal).
 
